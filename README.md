@@ -1,2 +1,2 @@
 # HaxBall + Express + MySQL
- test repository where I deployed Express
+ The repository contains a simple bot script + a script to run it. There are also files express.js and api.js. They are interconnected. 
